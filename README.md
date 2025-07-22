@@ -13,7 +13,7 @@
 ## 用法
 
 ```bash
-./sensitive-info-scanner -path /path/to/scan -workers 8 -output results.json -mode pass
+./scann -path /path/to/scan -workers 8 -output results.json -mode pass
 ```
 
 ### 参数说明
